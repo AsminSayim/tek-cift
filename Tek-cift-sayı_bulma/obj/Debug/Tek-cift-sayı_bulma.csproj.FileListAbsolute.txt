@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\bin\Debug\Tek-cift-sayı_bulma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\bin\Debug\Tek-cift-sayı_bulma.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\bin\Debug\Tek-cift-sayı_bulma.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek_cift_sayı_bulma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek_cift_sayı_bulma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Tek-cift-sayı_bulma\Tek-cift-sayı_bulma\obj\Debug\Tek-cift-sayı_bulma.pdb
